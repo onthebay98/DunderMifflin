@@ -1,6 +1,6 @@
 # Dunder Mifflin Gender Equity and Termination Analysis
 
-We use a headcount dataset from a fictional paper company, "Dunder Mifflin," to generate analyses in response to the following two sample requests:
+I use a headcount dataset from a fictional paper company, "Dunder Mifflin," to generate analyses in response to the following two sample requests:
 
 Request 1: The Head of Compensation is interested in visualizing and identifying disparities in salary equity by gender in North America for the less than 1 year, 1-2 years, and 3+ years tenure groups.
 
