@@ -1,4 +1,4 @@
-# DunderMifflin Gender Equity and Termination Analysis
+# Dunder Mifflin Gender Equity and Termination Analysis
 
 We use a headcount dataset from a fictional paper company, "Dunder Mifflin," to generate analyses in response to the following two sample requests:
 
